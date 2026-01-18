@@ -1,4 +1,4 @@
-An AI-powered automated selfie capture system designed for eKYC and Aadhaar-related onboarding. This app ensures high-quality, compliant selfies by forcing head movement gestures and stability checks before capturing.
+An AI-powered automated selfie capture system. This app ensures high-quality, compliant selfies by forcing head movement gestures and stability checks before capturing.
 
 🚀 Key Features
 Gesture-Driven Capture: Detects "Look Left" and "Look Right" to ensure liveness.
